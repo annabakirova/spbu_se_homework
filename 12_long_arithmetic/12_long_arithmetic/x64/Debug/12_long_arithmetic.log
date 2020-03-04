@@ -1,0 +1,3 @@
+﻿  main.c
+D:\spbu_se_homework\12_long_arithmetic\12_long_arithmetic\main.c(8,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  12_long_arithmetic.vcxproj -> D:\spbu_se_homework\12_long_arithmetic\x64\Debug\12_long_arithmetic.exe

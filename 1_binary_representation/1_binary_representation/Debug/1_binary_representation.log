@@ -1,0 +1,3 @@
+﻿  main.c
+D:\spbu_se_homework\1_binary_representation\1_binary_representation\main.c(67,1): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  1_binary_representation.vcxproj -> D:\spbu_se_homework\1_binary_representation\Debug\1_binary_representation.exe
